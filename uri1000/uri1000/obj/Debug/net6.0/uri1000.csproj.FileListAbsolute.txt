@@ -1,0 +1,15 @@
+C:\Users\adrie\OneDrive\Documentos\.Estudos\C# primeiros passos Lógica de Programação e Algoritmos\URI Judge\uri1000\uri1000\bin\Debug\net6.0\uri1000.exe
+C:\Users\adrie\OneDrive\Documentos\.Estudos\C# primeiros passos Lógica de Programação e Algoritmos\URI Judge\uri1000\uri1000\bin\Debug\net6.0\uri1000.deps.json
+C:\Users\adrie\OneDrive\Documentos\.Estudos\C# primeiros passos Lógica de Programação e Algoritmos\URI Judge\uri1000\uri1000\bin\Debug\net6.0\uri1000.runtimeconfig.json
+C:\Users\adrie\OneDrive\Documentos\.Estudos\C# primeiros passos Lógica de Programação e Algoritmos\URI Judge\uri1000\uri1000\bin\Debug\net6.0\uri1000.dll
+C:\Users\adrie\OneDrive\Documentos\.Estudos\C# primeiros passos Lógica de Programação e Algoritmos\URI Judge\uri1000\uri1000\bin\Debug\net6.0\uri1000.pdb
+C:\Users\adrie\OneDrive\Documentos\.Estudos\C# primeiros passos Lógica de Programação e Algoritmos\URI Judge\uri1000\uri1000\obj\Debug\net6.0\uri1000.csproj.AssemblyReference.cache
+C:\Users\adrie\OneDrive\Documentos\.Estudos\C# primeiros passos Lógica de Programação e Algoritmos\URI Judge\uri1000\uri1000\obj\Debug\net6.0\uri1000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adrie\OneDrive\Documentos\.Estudos\C# primeiros passos Lógica de Programação e Algoritmos\URI Judge\uri1000\uri1000\obj\Debug\net6.0\uri1000.AssemblyInfoInputs.cache
+C:\Users\adrie\OneDrive\Documentos\.Estudos\C# primeiros passos Lógica de Programação e Algoritmos\URI Judge\uri1000\uri1000\obj\Debug\net6.0\uri1000.AssemblyInfo.cs
+C:\Users\adrie\OneDrive\Documentos\.Estudos\C# primeiros passos Lógica de Programação e Algoritmos\URI Judge\uri1000\uri1000\obj\Debug\net6.0\uri1000.csproj.CoreCompileInputs.cache
+C:\Users\adrie\OneDrive\Documentos\.Estudos\C# primeiros passos Lógica de Programação e Algoritmos\URI Judge\uri1000\uri1000\obj\Debug\net6.0\uri1000.dll
+C:\Users\adrie\OneDrive\Documentos\.Estudos\C# primeiros passos Lógica de Programação e Algoritmos\URI Judge\uri1000\uri1000\obj\Debug\net6.0\refint\uri1000.dll
+C:\Users\adrie\OneDrive\Documentos\.Estudos\C# primeiros passos Lógica de Programação e Algoritmos\URI Judge\uri1000\uri1000\obj\Debug\net6.0\uri1000.pdb
+C:\Users\adrie\OneDrive\Documentos\.Estudos\C# primeiros passos Lógica de Programação e Algoritmos\URI Judge\uri1000\uri1000\obj\Debug\net6.0\uri1000.genruntimeconfig.cache
+C:\Users\adrie\OneDrive\Documentos\.Estudos\C# primeiros passos Lógica de Programação e Algoritmos\URI Judge\uri1000\uri1000\obj\Debug\net6.0\ref\uri1000.dll
