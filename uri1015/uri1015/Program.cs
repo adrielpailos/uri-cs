@@ -3,7 +3,6 @@ using System.Globalization;
 
 class Program
 {
-
     static void Main(string[] args)
     {
         double x1, x2, y1, y2, distancia;
@@ -19,5 +18,4 @@ class Program
 
         Console.WriteLine(distancia.ToString("f4", CultureInfo.InvariantCulture));
     }
-
 }
